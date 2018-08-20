@@ -11,8 +11,7 @@ title: NULS 源码目录结构
 * Nuls : NULS核心底层源代码
 * Nuls-explorer : NULS区块链浏览器（https://nulscan.io）
 * Nuls-client : NULS核心钱包
-* Api-server : NULS数据服务，为NULS区块链浏览器以及在线钱包
-* 移动端钱包等提供数据服务
+* Api-server : NULS数据服务，为NULS区块链浏览器以及在线钱包、移动端钱包等提供数据服务
 * Website : NULS 官网代码
 
 ## NULS核心底层目录结构说明
